@@ -34,7 +34,7 @@ header h1 {
 	padding:75px 0 0 0;
 }
 header h1 a {
-	font-size: 36px;
+	font-size: 30px;
 	color:#160000;
 	text-decoration:none;
 }
@@ -152,7 +152,7 @@ ul#navlist {
 	color: #444444;
 	text-transform:uppercase;
 	text-decoration:none;
-	font-size:18px;
+	font-size:16px;
 	font-weight:bold;
 }
 #navlist a:hover {
